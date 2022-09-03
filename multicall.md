@@ -3,9 +3,12 @@
 #### 需求说明
 通过调用合约中的balanceOf()方法，获取一个ERC20 Token持仓用户的余额。
 本例中，请获取ETH主链上Uniswap项目UNI Token持仓前10位地址的当前余额。
+
 UNI Token在Etherscan上的地址为：https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
 其合约地址为：0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
+
 Holder持仓情况可以在：https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#balances 页面看到。
+
 排名前10的持仓地址为：
 - 0x1a9c8182c09f50c8318d769245bea52c32be35bc
 - 0x4b4e140d1f131fdad6fb59c13af796fd194e4135
